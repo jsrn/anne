@@ -4,4 +4,9 @@ Teams up with rubocop to prevent bad commits. Run rubocop on the files you've re
 
 This is super basic so far and needs a lot of work. It assumes things about your system and doesn't handle its own dependencies.
 
+```
+$ gem install anne
+$ anne
+```
+
 I'm sorry.
